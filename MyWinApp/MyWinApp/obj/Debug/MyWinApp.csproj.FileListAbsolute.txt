@@ -1,0 +1,10 @@
+E:\234298\Batch4\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+E:\234298\Batch4\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+E:\234298\Batch4\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+E:\234298\Batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+E:\234298\Batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+E:\234298\Batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+E:\234298\Batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+E:\234298\Batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+E:\234298\Batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+E:\234298\Batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
